@@ -1,10 +1,11 @@
 # Student-Management-System
 Student Database Application
-Programi ben keto veprime:
-1.	Pyet perdoruesin sa studente do hidhen ne databaze.
-2.	Perdoruesit do t’i kerkohet te futet emri dhe mbiemri studentit.
-3.	Cdo student ka nje ID te vecante me 5 shifra ku shifra e pare perkon me numrin e vitit ne te cilin ndjek studimet.
-4.	Nje student mund te ndjeke kurse te ndryshme
-5.	Cdo kurs kushton 1000
-6.	Studenti eshte ne gjendje qe te kontrolloje balancen e vet per te paguar dhe tarifen.
-7.	Per te pare statusin e studentit, afishohen: emri, viti i studimit, ID dhe balanca
+The program performs the following operations:
+
+Asks the user how many students will be added to the database.
+Users will be prompted to enter the first and last name of the student.
+Each student has a unique ID with 5 digits where the first digit corresponds to the year of enrollment.
+A student can enroll in various courses.
+Each course costs 1000.
+The student is able to check their balance to pay the fee.
+To view the student's status, the following details are displayed: name, year of study, ID, and balance.
